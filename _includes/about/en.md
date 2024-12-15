@@ -1,19 +1,9 @@
-Hey, I am Erwin Lejeune (a.k.a. _@rangonomics_, _@wardn_). I am a Robotics Engineer by degree, but I consider myself a Software Engineer at the core and have not limited myself to Robotics and its transversal fields. I have deployed web apps for blockchain analytics, trading (don't use it) bots, investment analytics apps, web3 and many more projects.
+Welcome. I’m TheDyingYak, a cybersecurity professional specializing in red teaming. This blog serves as a platform to explore the technical, strategic, and often unpredictable aspects of cybersecurity from an adversarial perspective.
 
-In the past, I have led the development of Serena's Autonomous Navigation (ROS2, C++) stack at [Coalescent Mobile Robotics](https://cm-robotics.com/), worked at [Hiventive](https://www.hiventive.com/en/) both as a Back-End Software Engineer (Go, PostgreSQL) and as a Embedded Software Engineer (C++, C).
+With a focus on red teaming, I work at the intersection of offense and defense, simulating real-world threats to identify vulnerabilities and strengthen organizational security. My aim is to share insights into methodologies, tools, and lessons learned from years of testing the resilience of systems against sophisticated attacks.
 
-I have also been part of the Real Time Systems research team at [LS2N](https://ls2n.fr) for AI Planning, in which I have developed [pymapf](https://github.com/APLA-Toolbox/pymapf) (Multi-Agents Pathfinding Toolbox) and [pyddl](https://github.com/APLA-Toolbox/pythonpddl) (PDDL Parser/Planner).
+This blog isn’t about sugar-coating the challenges of cybersecurity; it’s about presenting a clear-eyed view of the landscape. Whether you're a fellow practitioner, someone transitioning into cybersecurity, or simply curious about how adversaries think, you'll find content here that aims to inform and provoke deeper discussions.
 
-I have interned at [Ingeniarius](https://ingeniarius.pt/), where I have worked on [STOP](http://stop.ingeniarius.pt/), [SAFE](http://safeforest.ingeniarius.pt/) and [SEMFIRE](http://semfire.ingeniarius.pt/).
+When I’m not immersed in analyzing threat vectors or crafting attack scenarios, I’m likely reading or playing games on my desktop. My approach to cybersecurity is rooted in realism: threats evolve, and so must our defenses.
 
-I completed my BSc. in Electronics from [Nantes Université](https://english.univ-nantes.fr/), followed by a Master's in Embedded Systems at [Bordeaux Ynov Campus](https://www.ynov.com/campus/bordeaux). I then transfered for a Control and Robotics Master's at [Ecole Centrale Nantes](https://www.ec-nantes.fr/english-version), a top 5 graduate school in the country.
-
-I now started the process of learning Blockchain Technology as well as their web integrations with web3.
-
-##### Projects
-
-- [Trackdrop][1] · A Footprint Tracker on Ethereum's Rollups · 2023
-- [Python-Nexo][2] · A Python Wrapper for Nexo Pro's API · 2022
-
-[1]: https://trackdrop.xyz/
-[2]: https://github.com/guilyx/python-nexo
+I welcome questions, feedback, and conversations. Together, let’s explore the critical role of red teaming in securing our increasingly digital world.
