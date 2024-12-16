@@ -99,3 +99,11 @@ Conclusion
 PsExec is a double-edged sword: an invaluable tool for system administrators and a formidable weapon for attackers. Understanding how PsExec is used for lateral movement is essential for detecting and mitigating this threat in modern networks. By implementing robust defensive strategies and monitoring techniques, organizations can reduce the risk of PsExec-based lateral movement, keeping their environments secure against both opportunistic attackers and targeted campaigns.
 
 Have you encountered PsExec in your operations or assessments? Share your experiences in the comments below!"
+
+
+
+
+### References
+- https://github.com/Sysinternals/sysinternals/blob/master/sysinternals/downloads/psexec.md
+- https://www.itprotoday.com/server-management-tools/psexec-explainer-by-mark-russinovich
+
