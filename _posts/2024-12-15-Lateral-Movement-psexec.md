@@ -26,9 +26,6 @@ Key features of PsExec:
 
 While PsExec provides immense value for IT operations, these same capabilities make it a prime target for abuse in cyberattacks.
 
-### Requirements
-There are a couple of requirements in order for PsExec to work. 
-
 ### How Attackers Use PsExec for Lateral Movement
 
 Attackers abuse PsExec to execute malicious commands or deploy payloads on remote systems. Here's how this typically unfolds:
