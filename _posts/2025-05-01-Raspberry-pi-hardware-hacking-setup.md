@@ -58,7 +58,8 @@ tags:
   - CS (SPI0 CE0)
   - GND
 
-> [!NOTE] GPIO Pins operate at 3.3V for other voltage levels, use a level shifter.
+<!-- > [!NOTE] -->
+GPIO Pins operate at 3.3V for other voltage levels, use a level shifter.
 
 ### Enable SPI interface
 
@@ -138,7 +139,9 @@ minicom -b 115200 -o -D /dev/serial0
 
 ### Connecting to I2c
 
-> [!NOTE] The Raspberry Pi can only function as an I2C master
+<!--  > [!NOTE] -->
+ 
+The Raspberry Pi can only function as an I2C master
 
 
 
